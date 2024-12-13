@@ -1,48 +1,49 @@
 obj/Descriptors.o: Descriptors.c Descriptors.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/USB.h \
- c:\arduino\lufa\lufa\common\common.h \
- c:\arduino\lufa\lufa\common\Architectures.h \
- c:\arduino\lufa\lufa\common\BoardTypes.h \
- c:\arduino\lufa\lufa\common\ArchitectureSpecific.h \
- c:\arduino\lufa\lufa\common\CompilerSpecific.h \
- c:\arduino\lufa\lufa\common\Attributes.h Config/LUFAConfig.h \
- c:\arduino\lufa\lufa\common\Endianness.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Common.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Architectures.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/BoardTypes.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/ArchitectureSpecific.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/CompilerSpecific.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Attributes.h \
+ Config/LUFAConfig.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Endianness.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/USBMode.h \
- c:\arduino\lufa\lufa\common\common.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/../../../Common/Common.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/USBTask.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/USBMode.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/USBController.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.h \
- c:\arduino\lufa\lufa\common\common.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbmode.h \
- c:\arduino\lufa\lufa\drivers\usb\core\events.h \
- c:\arduino\lufa\lufa\common\common.h \
- c:\arduino\lufa\lufa\drivers\usb\core\USBMode.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbtask.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbinterrupt.h \
- c:\arduino\lufa\lufa\drivers\usb\core\AVR8/USBInterrupt_AVR8.h \
- c:\arduino\lufa\lufa\common\common.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbmode.h \
- c:\arduino\lufa\lufa\drivers\usb\core\events.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbcontroller.h \
- c:\arduino\lufa\lufa\drivers\usb\core\device.h \
- c:\arduino\lufa\lufa\drivers\usb\core\StdDescriptors.h \
- c:\arduino\lufa\lufa\drivers\usb\core\Events.h \
- c:\arduino\lufa\lufa\drivers\usb\core\USBInterrupt.h \
- c:\arduino\lufa\lufa\drivers\usb\core\Endpoint.h \
- c:\arduino\lufa\lufa\drivers\usb\core\AVR8/Endpoint_AVR8.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbtask.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbinterrupt.h \
- c:\arduino\lufa\lufa\drivers\usb\core\AVR8/Device_AVR8.h \
- c:\arduino\lufa\lufa\drivers\usb\core\stddescriptors.h \
- c:\arduino\lufa\lufa\drivers\usb\core\endpoint.h \
- c:\arduino\lufa\lufa\drivers\usb\core\endpoint.h \
- c:\arduino\lufa\lufa\drivers\usb\core\devicestandardreq.h \
- c:\arduino\lufa\lufa\drivers\usb\core\StdRequestType.h \
- c:\arduino\lufa\lufa\drivers\usb\core\USBTask.h \
- c:\arduino\lufa\lufa\drivers\usb\core\USBController.h \
- c:\arduino\lufa\lufa\drivers\usb\core\endpointstream.h \
- c:\arduino\lufa\lufa\drivers\usb\core\AVR8/EndpointStream_AVR8.h \
+ c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBMode.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Events.h \
+ c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBMode.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBTask.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBInterrupt.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/USBInterrupt_AVR8.h \
+ c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBMode.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../Events.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBController.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Device.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../StdDescriptors.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Events.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBInterrupt.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Endpoint.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/Endpoint_AVR8.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBTask.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBInterrupt.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/Device_AVR8.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../StdDescriptors.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../Endpoint.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Endpoint.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../DeviceStandardReq.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../StdRequestType.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBTask.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBController.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../EndpointStream.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/EndpointStream_AVR8.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/Events.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/StdRequestType.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/StdDescriptors.h \
@@ -58,64 +59,64 @@ obj/Descriptors.o: Descriptors.c Descriptors.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/DeviceStandardReq.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Core/EndpointStream.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/AndroidAccessoryClass.h \
- c:\arduino\lufa\lufa\drivers\usb\core\usbmode.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/../Core/USBMode.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/AudioClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/AudioClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\usb.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\audioclasscommon.h \
- c:\arduino\lufa\lufa\drivers\usb\core\stddescriptors.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../../USB.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/AudioClassCommon.h \
+ c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\drivers\usb\core\stddescriptors.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/CCIDClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/CCIDClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\ccidclasscommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/CCIDClassCommon.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/CDCClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/CDCClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\cdcclasscommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/CDCClassCommon.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/HIDClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/HIDClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\hidclasscommon.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\HIDParser.h \
- c:\arduino\lufa\lufa\common\common.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\HIDReportData.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\HIDClassCommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDClassCommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDParser.h \
+ c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDReportData.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDClassCommon.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/MassStorageClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/MassStorageClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\massstorageclasscommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/MassStorageClassCommon.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/MIDIClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/MIDIClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\midiclasscommon.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\AudioClassCommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/MIDIClassCommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/AudioClassCommon.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/PrinterClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/PrinterClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\printerclasscommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/PrinterClassCommon.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/RNDISClass.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/RNDISClassDevice.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\rndisclasscommon.h \
- c:\arduino\lufa\lufa\drivers\usb\class\common\CDCClassCommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/RNDISClassCommon.h \
+ ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/CDCClassCommon.h \
  ../LUFA/LUFA/../LUFA/Drivers/USB/Class/StillImageClass.h
 
 Descriptors.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/USB.h:
 
-c:\arduino\lufa\lufa\common\common.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Common.h:
 
-c:\arduino\lufa\lufa\common\Architectures.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Architectures.h:
 
-c:\arduino\lufa\lufa\common\BoardTypes.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/BoardTypes.h:
 
-c:\arduino\lufa\lufa\common\ArchitectureSpecific.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/ArchitectureSpecific.h:
 
-c:\arduino\lufa\lufa\common\CompilerSpecific.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/CompilerSpecific.h:
 
-c:\arduino\lufa\lufa\common\Attributes.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Attributes.h:
 
 Config/LUFAConfig.h:
 
-c:\arduino\lufa\lufa\common\Endianness.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/../../Common/Endianness.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Core/USBMode.h:
 
-c:\arduino\lufa\lufa\common\common.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/../../../Common/Common.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Core/USBTask.h:
 
@@ -125,65 +126,65 @@ c:\arduino\lufa\lufa\common\common.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/USBController_AVR8.h:
 
-c:\arduino\lufa\lufa\common\common.h:
+c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbmode.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBMode.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\events.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Events.h:
 
-c:\arduino\lufa\lufa\common\common.h:
+c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\USBMode.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBMode.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbtask.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBTask.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbinterrupt.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBInterrupt.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\AVR8/USBInterrupt_AVR8.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/USBInterrupt_AVR8.h:
 
-c:\arduino\lufa\lufa\common\common.h:
+c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbmode.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBMode.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\events.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../Events.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbcontroller.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBController.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\device.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Device.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\StdDescriptors.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../StdDescriptors.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\Events.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Events.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\USBInterrupt.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBInterrupt.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\Endpoint.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Endpoint.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\AVR8/Endpoint_AVR8.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/Endpoint_AVR8.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbtask.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBTask.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbinterrupt.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../USBInterrupt.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\AVR8/Device_AVR8.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/Device_AVR8.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\stddescriptors.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../StdDescriptors.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\endpoint.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/../Endpoint.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\endpoint.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../Endpoint.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\devicestandardreq.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../DeviceStandardReq.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\StdRequestType.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../StdRequestType.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\USBTask.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBTask.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\USBController.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../USBController.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\endpointstream.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../EndpointStream.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\AVR8/EndpointStream_AVR8.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Core/AVR8/../AVR8/EndpointStream_AVR8.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Core/Events.h:
 
@@ -215,70 +216,70 @@ c:\arduino\lufa\lufa\drivers\usb\core\AVR8/EndpointStream_AVR8.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/AndroidAccessoryClass.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\usbmode.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/../Core/USBMode.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/AudioClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/AudioClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\usb.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../../USB.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\audioclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/AudioClassCommon.h:
 
-c:\arduino\lufa\lufa\drivers\usb\core\stddescriptors.h:
+c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\drivers\usb\core\stddescriptors.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/CCIDClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/CCIDClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\ccidclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/CCIDClassCommon.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/CDCClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/CDCClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\cdcclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/CDCClassCommon.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/HIDClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/HIDClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\hidclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDClassCommon.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\HIDParser.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDParser.h:
 
-c:\arduino\lufa\lufa\common\common.h:
+c:\arduino\splatoon3_canvas_in_plaza-1\lufa\lufa\common\common.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\HIDReportData.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDReportData.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\HIDClassCommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/HIDClassCommon.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/MassStorageClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/MassStorageClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\massstorageclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/MassStorageClassCommon.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/MIDIClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/MIDIClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\midiclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/MIDIClassCommon.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\AudioClassCommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/AudioClassCommon.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/PrinterClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/PrinterClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\printerclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/PrinterClassCommon.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/RNDISClass.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/RNDISClassDevice.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\rndisclasscommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/RNDISClassCommon.h:
 
-c:\arduino\lufa\lufa\drivers\usb\class\common\CDCClassCommon.h:
+../LUFA/LUFA/../LUFA/Drivers/USB/Class/Device/../Common/CDCClassCommon.h:
 
 ../LUFA/LUFA/../LUFA/Drivers/USB/Class/StillImageClass.h:

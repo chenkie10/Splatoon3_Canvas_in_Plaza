@@ -1,31 +1,32 @@
 obj/PipeStream_AVR8.o: \
  ../LUFA/LUFA/Drivers/USB/Core/AVR8/PipeStream_AVR8.c \
- c:\arduino\lufa\lufa\common\common.h \
- c:\arduino\lufa\lufa\common\Architectures.h \
- c:\arduino\lufa\lufa\common\BoardTypes.h \
- c:\arduino\lufa\lufa\common\ArchitectureSpecific.h \
- c:\arduino\lufa\lufa\common\CompilerSpecific.h \
- c:\arduino\lufa\lufa\common\Attributes.h Config/LUFAConfig.h \
- c:\arduino\lufa\lufa\common\Endianness.h \
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Common.h \
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Architectures.h \
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/BoardTypes.h \
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/ArchitectureSpecific.h \
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/CompilerSpecific.h \
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Attributes.h \
+ Config/LUFAConfig.h \
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Endianness.h \
  ../LUFA/LUFA/Drivers/USB/Core/AVR8/../USBMode.h \
- c:\arduino\lufa\lufa\common\common.h
+ ../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Common.h
 
-c:\arduino\lufa\lufa\common\common.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Common.h:
 
-c:\arduino\lufa\lufa\common\Architectures.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Architectures.h:
 
-c:\arduino\lufa\lufa\common\BoardTypes.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/BoardTypes.h:
 
-c:\arduino\lufa\lufa\common\ArchitectureSpecific.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/ArchitectureSpecific.h:
 
-c:\arduino\lufa\lufa\common\CompilerSpecific.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/CompilerSpecific.h:
 
-c:\arduino\lufa\lufa\common\Attributes.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Attributes.h:
 
 Config/LUFAConfig.h:
 
-c:\arduino\lufa\lufa\common\Endianness.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Endianness.h:
 
 ../LUFA/LUFA/Drivers/USB/Core/AVR8/../USBMode.h:
 
-c:\arduino\lufa\lufa\common\common.h:
+../LUFA/LUFA/Drivers/USB/Core/AVR8/../../../../Common/Common.h:
